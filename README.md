@@ -1,2 +1,2 @@
-# merge and conflict
+# merge and conflict LOCAL
 On aime les conflits
