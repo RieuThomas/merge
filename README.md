@@ -1,2 +1,2 @@
-# merge and conflict
+# merge and conflict REMOTE
 On aime les conflits
